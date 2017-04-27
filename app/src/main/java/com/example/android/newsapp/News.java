@@ -21,7 +21,7 @@ public class News {
     private String mDate;
 
     /**
-     * Website URL of the earthquake
+     * Website URL of the new item
      */
     private String mUrl;
 
